@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+    background-image: url(https://tse1.mm.bing.net/th?id=OIP.ynvwny6vKxeSx0svy_sqAgHaFN&pid=Api&P=0&w=215&h=152);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+div{
+    background-color: red;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    border: solid blue ;
+    border-radius: 20px;
+    opacity: 0.9;   
+}
+h1{
+    color: blue;
+    font-family: Georgia, Times, 'Times New Roman', serif;
+}
+p{
+    color: blue;
+    font-weight: bold;
+}
+.type{
+    padding: 10px;
+    width: 800px;
+    padding-bottom: 15px;
+}
